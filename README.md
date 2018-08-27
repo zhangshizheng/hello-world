@@ -1,3 +1,3 @@
 # hello-world
-The first practice for me
+The first practice for my
 test
